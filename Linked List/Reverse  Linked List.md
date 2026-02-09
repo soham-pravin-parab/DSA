@@ -1,0 +1,4 @@
+# Reverse Linked List  (Leetcode 206)
+## Explanation 
+
+The iterative reverse linked list algorithm maintains three pointers—prev (points to the last node of the reversed portion, initially NULL), curr (current node being reversed, initially head), and next (temporary storage)—while traversing the list once: in a loop while curr is not NULL, first store curr's next node in next to preserve the forward link, then reverse curr's next pointer to point to prev instead, advance prev to curr to grow the reversed prefix, and finally move curr to next to process the remaining unprocessed suffix, ensuring no node connections are lost; when curr reaches NULL the loop ends and prev becomes the new head of the fully reversed list, achieving O(n) time and O(1) space complexity through in-place pointer reassignment.
