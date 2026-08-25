@@ -2,6 +2,8 @@
 # Explanation 
 In this problem we are given a Mountain array of length n in which
 the values go on increasing to peak element and then decrease 
+# Intuition 
+# Algorithm 
 # Complexity 
 Time Complexity : O(n)
 
