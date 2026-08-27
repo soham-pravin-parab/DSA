@@ -3,3 +3,6 @@
 In this problem we are given n vertical lines 
 we need to find the maximum amount of water that
 can be stored between any two lines
+# Intuition 
+# Algorithm 
+# Complexity 
