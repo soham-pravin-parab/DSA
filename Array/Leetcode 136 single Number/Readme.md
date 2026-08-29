@@ -6,3 +6,6 @@ except one we need to return that single element
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(1)
