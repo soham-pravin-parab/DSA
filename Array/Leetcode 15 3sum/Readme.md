@@ -5,3 +5,6 @@ to return a non duplicate triplets such that there sum is 0
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(nlog(n))
+
+Space Complexity : O(n)
