@@ -9,3 +9,6 @@ for this we declare two pointers that is slow
 and fast the slow pointer moves by one node and the
 fast moves by two nodes if they both meet we 
 return true.
+# Intuition 
+# Algorithm 
+# Complexity 
