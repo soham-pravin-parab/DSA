@@ -8,3 +8,6 @@ when merging , if an element from the right
 is picked before the left half's remaining 
 elements,  all those left elements from inversion 
 with it.
+# Intuition 
+# Algorithm 
+# Complexity 
