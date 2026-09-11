@@ -6,3 +6,6 @@ head is null return the other . It compares
 head1 -> val and head2 -> val the smaller one becomes 
 the new head and its next recursively merges 
 the remainder with the larger head .
+# Intuition 
+# Algorithm 
+# Complexity 
