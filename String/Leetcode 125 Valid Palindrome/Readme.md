@@ -3,3 +3,6 @@
 In this problem we are given a string s and we
 need to return true if the string is a palindrome 
 or return false otherwise 
+# Intuition 
+# Algorithm 
+# Complexity 
