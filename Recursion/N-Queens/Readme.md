@@ -9,3 +9,6 @@ and 'Q' is a queen.
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(1)
