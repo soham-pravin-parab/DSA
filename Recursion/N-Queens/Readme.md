@@ -6,3 +6,6 @@ shares the same row , column, or diagonal
 with another. This code uses vector of strings
 to represent the board,  where ' . ' is empty
 and 'Q' is a queen.
+# Intuition 
+# Algorithm 
+# Complexity 
