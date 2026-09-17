@@ -9,3 +9,6 @@ and can also be repeated
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(n²)
