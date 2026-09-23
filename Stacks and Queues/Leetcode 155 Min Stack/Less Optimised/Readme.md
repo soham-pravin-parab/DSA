@@ -1,5 +1,7 @@
 # Explanation 
-The space complexity of this code is O(2×n)
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(1)
+
+Space Complexity : O(2×n)
