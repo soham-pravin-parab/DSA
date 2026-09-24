@@ -7,3 +7,6 @@ upfront and sets it properly on collision
 # Intuition 
 # Algorithm 
 # Complexity 
+Space Complexity : O(n)
+
+Time Complexity : O(1)
