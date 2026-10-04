@@ -6,3 +6,6 @@ is missing we need to find both the integers.
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n²)
+
+Space Complexity : O(n)
