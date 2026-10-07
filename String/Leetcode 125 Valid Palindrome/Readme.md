@@ -7,3 +7,6 @@ or return false otherwise
 We use two pointer approach in this problem. We initialize two pointers lower and higher at the beginning and at the end of the string and check for palindromes .
 # Algorithm 
 # Complexity 
+Time Complexity : O(log(n))
+
+Space Complexity : O(1)
