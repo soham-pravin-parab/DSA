@@ -7,3 +7,6 @@ only one repeated number in the array we need to return that number
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(log(n))
+
+Space Complexity : O(1)
