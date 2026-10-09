@@ -7,3 +7,6 @@ making it the only node. if the head doesn't equal to null then it links new nod
 backward to current tail links current tail 
 forward  to new node updates tail to
 the new end .
+# Intuition 
+# Algorithm 
+# Complexity 
