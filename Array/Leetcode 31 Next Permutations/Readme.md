@@ -3,3 +3,6 @@
 In this problem we are given array of nums
 and have to retun the lexicographically greater 
 permutation
+# Intuition 
+# Algorithm 
+# Complexity 
