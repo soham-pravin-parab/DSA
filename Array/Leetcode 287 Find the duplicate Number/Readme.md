@@ -6,3 +6,6 @@ containing n+1 integers where each integer has a range of
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(1)
