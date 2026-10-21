@@ -5,6 +5,7 @@ called as nums containing n+1 integers where each
 integer is in a range [1,n] inclusive there is 
 only one repeated number in the array we need to return that number
 # Intuition 
+We use Floyd's cycle in this . We first declare two pointers run them infinity until we find the duplicate the run another loop to confir and then we return that element. 
 # Algorithm 
 # Complexity 
 Time Complexity : O(log(n))
