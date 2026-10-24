@@ -6,6 +6,9 @@ except one we need to return that single element
 # Intuition 
 We use the XOR operator in this approach. 
 # Algorithm 
+1. Declare a XOR operator whit 0
+2. Initialize a for loop raise the oprator with the i th element
+3. return the operator 
 # Complexity 
 Time Complexity : O(n)
 
