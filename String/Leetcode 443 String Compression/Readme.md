@@ -5,3 +5,6 @@ we need to compress it using the given algorithms
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n²)
+
+Space Complexity : O(1)
