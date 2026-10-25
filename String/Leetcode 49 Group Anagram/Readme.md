@@ -5,3 +5,6 @@ strs group the Anagrams together. We can return them in any order
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(n)
