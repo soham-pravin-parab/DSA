@@ -2,6 +2,4 @@
 # Explanation 
 In this problem we are give a string s and we need to 
 return the longest happy prefix 
-# Intuition 
-# Algorithm 
-# Complexity 
+
