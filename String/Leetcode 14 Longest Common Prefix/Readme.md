@@ -5,3 +5,6 @@ Prefix between an array of strings
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(1)
