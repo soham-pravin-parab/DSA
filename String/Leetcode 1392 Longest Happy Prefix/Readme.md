@@ -5,3 +5,6 @@ return the longest happy prefix
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(n)
