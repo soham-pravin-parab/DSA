@@ -4,6 +4,7 @@ In this problem  we are given a matrix of size
 n×n . Each integer appears once accept one integer which appears twice and a integer 
 is missing we need to find both the integers.
 # Intuition 
+We have to initialize two for loops and use them as the co ordinates for our grid and search 
 # Algorithm 
 # Complexity 
 Time Complexity : O(n²)
