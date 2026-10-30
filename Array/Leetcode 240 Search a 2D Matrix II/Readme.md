@@ -6,6 +6,6 @@ we need to find a value target
 We use binary search in this to find the target 
 # Algorithm 
 # Complexity 
-Time Complexity : O(n)
+Time Complexity : O(log(n))
 
 Space Complexity : O(1)
