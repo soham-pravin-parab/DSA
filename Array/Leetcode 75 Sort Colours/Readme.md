@@ -5,3 +5,6 @@ with or without repetition we need to arrange them in the ascending order
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(1)
