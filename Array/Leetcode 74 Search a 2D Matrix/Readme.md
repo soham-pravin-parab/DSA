@@ -7,3 +7,6 @@ if the target is present in the martix or else we need to return no.
 # Intuition 
 # Algorithm 
 # Complexity 
+ Time Complexity : O(log(n))
+
+ Space Complexity : O(1)
