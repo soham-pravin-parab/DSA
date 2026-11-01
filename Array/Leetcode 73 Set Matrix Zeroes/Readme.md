@@ -6,3 +6,6 @@ entire row and the column is zero.
 # Intuition 
 # Algorithm
 # Complexity 
+ Time Complexity : O(n²)
+
+ Space Complexity : O(1)
