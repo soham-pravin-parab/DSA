@@ -5,3 +5,7 @@ we need to return all the elements in a spiral order
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(1)
+
