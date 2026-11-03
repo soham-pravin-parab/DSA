@@ -6,3 +6,6 @@ if it is present we print true .
 # Intuition 
 # Algorithm 
 # Complexity 
+ Time Complexity : O(n²)
+
+ Space Complexity : O(1)
