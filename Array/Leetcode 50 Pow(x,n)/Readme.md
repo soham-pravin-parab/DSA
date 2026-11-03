@@ -2,6 +2,7 @@
 # Explanation 
 In this problem we have to return x raised to power n
 # Intuition 
+The problem is solved by using the inbuilt function 
 # Algorithms 
 # Complexity 
 Time Complexity : O(1)
