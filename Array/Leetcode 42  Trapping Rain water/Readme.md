@@ -6,3 +6,6 @@ we need to return how much water can be trapped
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(1)
