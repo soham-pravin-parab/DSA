@@ -6,4 +6,6 @@ The problem is solved by using the inbuilt function
 # Algorithms 
 Use the inbuilt pow() function to slove this problem 
 # Complexity 
+Time Complexity : O(1)
 
+Space Complexity : O(1)
