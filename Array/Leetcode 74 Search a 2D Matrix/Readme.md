@@ -5,6 +5,7 @@ m×n with each row being sorted and in non decreasing order
 we are also given a target and we have to return yes
 if the target is present in the martix or else we need to return no.
 # Intuition 
+We use binary search in this problem to find the answer 
 # Algorithm 
 # Complexity 
  Time Complexity : O(log(n))
