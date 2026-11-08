@@ -6,3 +6,6 @@ in both the arrays and we need to merge both the arrays
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(1)
