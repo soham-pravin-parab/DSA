@@ -6,3 +6,6 @@ sum is equal to the target
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n²)
+
+Space Complexity : O(n)
