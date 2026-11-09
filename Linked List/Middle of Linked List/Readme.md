@@ -7,3 +7,6 @@ if there are two middle nodes , return the second
 node. This code uses two pointers i.e. slow 
 pointer and fast pointer when the fast reaches
 the end the slow is at middle 
+# Intuition 
+# Algorithm 
+# Complexity 
