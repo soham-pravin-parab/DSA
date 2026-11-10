@@ -5,3 +5,6 @@ The program defines a Node class for list elements and a List class managing hea
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(n)
