@@ -6,3 +6,6 @@ s1 or false otherwise
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(1)
