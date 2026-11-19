@@ -9,3 +9,6 @@ from cell 0 to N×N-1 using only legal Knight moves
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(1)
