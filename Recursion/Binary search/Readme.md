@@ -6,3 +6,6 @@ and returning its index or -1 if not found
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(1)
+
+Space Complexity : O(1)
