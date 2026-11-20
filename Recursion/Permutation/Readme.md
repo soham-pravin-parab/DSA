@@ -4,3 +4,6 @@ The code solves "Permutations": given an array nums, return all possible permuta
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(1)
