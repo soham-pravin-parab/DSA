@@ -8,3 +8,6 @@ paths starting from (0,0) to the bottom right
 cell  ( n-1 , n-1 ) . Print path as a string
 of move 'U' (UP) , 'D' (DOWN) , 'L' (LEFT)
 , 'R'(RIGHT).
+# Intuition 
+# Algorithm 
+# Complexity 
