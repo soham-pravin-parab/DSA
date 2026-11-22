@@ -5,3 +5,6 @@ The optimised version saves O(n²) space by reusing the maze matrix, ideal for l
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(1)
+
+Space Complexity : O(1)
