@@ -11,3 +11,6 @@ of move 'U' (UP) , 'D' (DOWN) , 'L' (LEFT)
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(1)
+
+Space Complexity : O(n²)
