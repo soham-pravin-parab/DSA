@@ -5,4 +5,6 @@ algorithm with O(n logn) time complexity
 that works recursively dividing the array 
 into halves, sorting them,and then merging
 them back in the order
-
+# Intuition 
+# Algorithm 
+# Complexity 
