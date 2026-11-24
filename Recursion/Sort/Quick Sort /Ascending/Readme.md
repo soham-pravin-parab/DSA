@@ -4,3 +4,6 @@ It selects the last element as the pivot, initializes an index just before the s
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(n)
+
+Space Complexity : O(1)
