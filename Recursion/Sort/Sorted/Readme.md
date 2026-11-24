@@ -4,3 +4,6 @@ In this we are given a vector of integers and its size determine if the array is
 # Intuition 
 # Algorithm 
 # Complexity 
+Time Complexity : O(1)
+
+Space Complexity : O(1)
