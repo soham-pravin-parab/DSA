@@ -8,6 +8,6 @@ them back in the order
 # Intuition 
 # Algorithm 
 # Complexity 
-Time Complexity : O(n)
+Time Complexity : O(n log(n))
 
 Space Complexity : O(n)
